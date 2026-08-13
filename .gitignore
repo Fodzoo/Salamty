@@ -1,0 +1,10 @@
+﻿.dart_tool/
+.gradle/
+.idea/
+build/
+*.apk
+*.ipa
+*.app
+node_modules/
+.DS_Store
+*.log
