@@ -699,14 +699,6 @@ Provider.of<ThemeProvider>(context, listen: false)
 
 ---
 
-### Technical Support
-For technical issues or feature requests, please:
-1. Check existing documentation
-2. Review known limitations
-3. Contact project supervisor
-
----
-
 ## License
 
 This project is developed as an academic graduation project at Thebes Higher Institute of Management & Information Technology. All rights reserved for educational and institutional purposes.
