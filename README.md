@@ -4,6 +4,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Latest-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-Academic-orange.svg)
+![Project](assets/images/pic.png)
 
 ## Table of Contents
 - [Executive Summary](#executive-summary)
